@@ -28,7 +28,7 @@
         <label>Project name:</label>
         <input type="text" name="ProjectUpdateName" value="<?= $project['Project_Name'] ?>">
 
-        <button type="submit">Update</button>
+        <button class ="btn_submit" type="submit">Update</button>
     </form>
 
 
@@ -55,7 +55,7 @@
     }
 
     ?>
-    <button><a href="./projects.php">Back</a></button>
+    <button class = "btn_back"><a class="txt" href="./projects.php">Back</a></button>
 
 </body>
 

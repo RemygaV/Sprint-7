@@ -57,9 +57,12 @@ td {
     font-weight: 700;
 }
 
+.txt {
+    color:white;
+}
 
 
-.btn_submit, .btn_cancel {
+.btn_submit, .btn_cancel, .btn_back {
     margin-top: 10px;
     background-color: rgb(1, 137, 41);
     color: white;
@@ -79,4 +82,5 @@ td {
     border: none;
     box-shadow: 3px 3px rgb(200, 200, 200);
 }
+
 
